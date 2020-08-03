@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+
+@import 'base/typography';
+
+@import 'common/global';
+@import 'common/fonts';
+@import 'common/buttons';
+@import 'common/forms';
+@import 'common/buttons';
+
+@import 'layout/footer';
+
+@import 'base/helpers';
+
+@tailwind utilities;
